@@ -1,0 +1,22 @@
+{
+  "name": "why-plugin",
+  "owner": {
+    "name": "Josh O'Brien",
+    "email": "jobrien874ie@gmail.com"
+  },
+  "metadata": {
+    "description": "Combat cognitive debt from AI-assisted development",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "why",
+      "description": "Quiz developers on AI-generated code across three tiers of understanding: What, How, and Why",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/why"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "why",
+  "description": "WHY — Combat cognitive debt from AI-assisted development by quizzing developers on implementations they just received. Contextual multiple-choice questions across three tiers of understanding: What, How, and Why.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Josh O'Brien",
+    "url": "https://github.com/jobrien874"
+  },
+  "repository": "https://github.com/jobrien874/why-plugin",
+  "homepage": "https://github.com/jobrien874/why-plugin",
+  "license": "MIT",
+  "keywords": [
+    "learning",
+    "claude",
+    "cognitive-debt",
+    "quiz",
+    "education",
+    "code-comprehension",
+    "developer-growth"
+  ]
+}
